@@ -1,0 +1,36 @@
+# Pasta de configuração do Visual Studio
+.vs/
+
+# Arquivos temporários e de build
+bin/
+obj/
+
+# Configurações do usuário
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Arquivos de log
+*.log
+
+# Arquivos gerados por testes
+TestResults/
+
+# Configurações locais de IDE
+*.vcxproj.user
+
+# Diretórios de pacotes NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Arquivos temporários do Rider/ReSharper
+.idea/
+*.DotSettings.user
+
+# Arquivos do sistema
+Thumbs.db
+Desktop.ini
